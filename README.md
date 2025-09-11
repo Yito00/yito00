@@ -1,4 +1,4 @@
-# 📘 Portafolio de Lisandro  
+# 📘 Portafolio de Lisandro  perez
 
 Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.  
 
@@ -26,5 +26,5 @@ Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.
 Para contacto, puede escribirme a: Lisandroperezpersonal@gmail.com
 
  
-
+## estudiante de Ciberseguridad activo
 ---
