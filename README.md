@@ -6,13 +6,9 @@ Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.
 
 ## 📂 Portafolio / Proyectos  
 
-### Actividad 1: Ensayo sobre el himno del amor  
-![Captura actividad 1](imagenes/actividad1.png)  
-*Breve descripción de la actividad realizada.*  
+### Actividad 1: Instalar hipervisor VMwareTarea 
 
-### Actividad 2: Mitos y realidades del matrimonio  
-![Captura actividad 2](imagenes/actividad2.png)  
-*Breve descripción de la actividad realizada.*  
+### Actividad 2: Crear VM de Windows ServerTarea 
 
 ---
 
