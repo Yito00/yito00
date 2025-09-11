@@ -23,8 +23,8 @@ Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.
 ---
 
 ## 📧 Contacto  
-Para contacto, puede escribirme a:  
+Para contacto, puede escribirme a: Lisandroperezpersonal@gmail.com
 
-![Correo en imagen](imagenes/correo.png)  
+ 
 
 ---
