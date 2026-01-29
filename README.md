@@ -13,7 +13,9 @@ Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.
 ---
 
 ## 🔗 Mi LinkedIn  
-👉 [Visita mi LinkedIn](https://www.linkedin.com/in/tuusuario)  
+👉 www.linkedin.com/in/lisandro-rafael-perez-lugo-5173273a9
+
+
 
 ---
 
