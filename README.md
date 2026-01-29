@@ -22,9 +22,9 @@ Bienvenido a mi **e-portafolio**, donde muestro las asignaciones realizadas.
 
 ---
 
-## 📧 Contacto  
+## 📧 Contactos 
 Para contacto, puede escribirme a: Lisandroperezpersonal@gmail.com
 
  
-## estudiante de Ciberseguridad activo
+## Estudiante de Ciberseguridad activo
 ---
